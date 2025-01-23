@@ -8,8 +8,8 @@
 -ef: Muestra información más detallada.
 ```
 
-
 Ejemplo y resultado:
+![Captura de pantalla 2025-01-22 181832](https://github.com/user-attachments/assets/f6ac9bea-c4b8-4478-adf8-8b067ea9f831)
 
 ### Comando top: Monitoriza procesos en tiempo real.
 
@@ -19,19 +19,8 @@ Ejemplo y resultado:
 -n: Número de actualizaciones.
 ```
 
-
 Ejemplo y resultado:
-
-### Comando htop: Alternativa interactiva a top.
-
-**Opciones principales**
-```
---sort-key: Ordenar por una columna específica.
-```
-
-
-Ejemplo y resultado:
-
+![Captura de pantalla 2025-01-22 181849](https://github.com/user-attachments/assets/d4cc049b-9dbd-4cc4-861f-c52c61b26b36)
 
 ### Comando atop: Proporciona un monitoreo detallado del uso de recursos.
 
@@ -42,3 +31,4 @@ Ejemplo y resultado:
 ```
 
 Ejemplo y resultado:
+![Captura de pantalla 2025-01-22 182444](https://github.com/user-attachments/assets/5498422a-d180-40ae-bf3a-cd5efe96dd39)
