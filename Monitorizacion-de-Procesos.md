@@ -1,5 +1,9 @@
 ## Monitorización de procesos
 
+<p align= center>
+  <img src="https://github.com/user-attachments/assets/b6980370-7e72-40dc-befd-848fe024bcc1" alt="monitorización", width=240 />
+</p>
+
 ### Comando ps: Muestra una instantánea de los procesos actuales.
 
 **Opciones principales**
