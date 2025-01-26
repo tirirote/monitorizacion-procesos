@@ -1,5 +1,9 @@
 ## Monitorización de red
 
+<p align= center>
+  <img src="https://github.com/user-attachments/assets/d04cf022-faab-4f9c-8a1a-0c8996b34b10" alt="monitorización", width=240 />
+</p>
+
 ### Comando tcpdump: Captura tráfico de red en tiempo real.
 
 **Opciones principales**
