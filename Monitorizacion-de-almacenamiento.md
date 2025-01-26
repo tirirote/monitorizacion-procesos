@@ -1,5 +1,9 @@
 ## Monitorización de almacenamiento
 
+<p align= center>
+  <img src="https://github.com/user-attachments/assets/08aa5287-46f2-4758-8e23-624098ebd2ab" alt="monitorización", width=240 />
+</p>
+
 ### Comando free: Muestra el uso de memoria.
 
 **Opciones principales**
